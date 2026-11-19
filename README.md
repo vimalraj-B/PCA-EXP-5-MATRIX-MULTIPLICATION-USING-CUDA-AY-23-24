@@ -187,7 +187,7 @@ int main()
 ```
 ## OUTPUT:
 
-<img width="470" height="380" alt="Screenshot 2026-11-19 084212" src="https://github.com/user-attachments/assets/8b4fc125-2e44-454c-baa1-4c015069d0e0" />
+<br><img width="470" height="380" alt="Screenshot 2026-11-19 084212" src="https://github.com/user-attachments/assets/8b4fc125-2e44-454c-baa1-4c015069d0e0" /></br>
 
 <img width="517" height="317" alt="Screenshot 2026-11-19 084231" src="https://github.com/user-attachments/assets/2c706510-51e7-41c6-8e0b-e717381a15d3" />
 
